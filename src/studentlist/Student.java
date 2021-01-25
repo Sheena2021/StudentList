@@ -3,7 +3,7 @@ package studentlist;
 
 /**
  *
- * @author Sheena Manuel
+ * @author Sheena Manuel 2021-JAN-25
  */
 public class Student {
 private String name;
