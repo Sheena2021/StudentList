@@ -9,8 +9,7 @@ public class Student {
 private String name;
 
 private String address;
-        // new code
-
+        
     public String getAddress() {
         return address;
         
