@@ -9,7 +9,6 @@ public class Student {
 private String name;
 private String address;
 
-
     public String getAddress() {
         return address;
     }
@@ -30,3 +29,4 @@ private String address;
         this.name = name;
     }
 }
+
