@@ -7,6 +7,7 @@ import java.util.Scanner;
  * This class +++Insert Description Here+++
  *
  * @author Sheena Manuel
+ * 2-3-2021
  */
 public class StudentList {
 
